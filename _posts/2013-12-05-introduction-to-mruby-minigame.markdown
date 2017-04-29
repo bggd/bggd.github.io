@@ -2,7 +2,7 @@
 layout: post
 title: "mruby-minigameの紹介"
 date: 2013-12-05 10:35
-permalink: /blog/introduction-to-mruby-minigame
+permalink: /blog/introduction-to-mruby-minigame/
 ---
 
 # 注意！
