@@ -17,7 +17,7 @@ luaとluarocksをPATHに一時的に通すためにはインストールした�
 コマンドプロンプト用にはactivate.bat。PowerShell向きにはactivate.ps1が用意されています。
 
 hererocksはpythonで書かれているのでpythonが必要です。
-現在、hererocksはluarocksのチームがメンテナンスしいるのでインストールに関する詳細はこちらのrepositoryを参照してください → [https://github.com/luarocks/hererocks](https://github.com/luarocks/hererocks)
+現在、hererocksはluarocksのチームがメンテナンスしいるのでpipからインストール等の詳細はこちらのrepositoryを参照してください → [https://github.com/luarocks/hererocks](https://github.com/luarocks/hererocks)
 
 私はBlender 3D内蔵のpythonを使ってhererocks.pyを直接実行しました。
 
