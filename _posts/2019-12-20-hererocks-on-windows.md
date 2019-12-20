@@ -22,4 +22,3 @@ hererocksはpythonで書かれているのでpythonが必要です。
 私はBlender 3D内蔵のpythonを使ってhererocks.pyを直接実行しました。
 
 hererocksはcl.exe(MSVC)がPATHにあればcl.exeをCコンパイラとして使い、無ければgccを代わりに使います(gccがPATHにあれば)。
-```x64 Native Tools Command Prompt for VS 2019```から実行しましょう。
