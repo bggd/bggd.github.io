@@ -16,9 +16,8 @@ hererocksは指定したローカルディレクトリにlua又はluajit/moonjit
 luaとluarocksをPATHに一時的に通すためにはインストールしたディレクトリのbinサブディレクトリ内のactivateスクリプトを実行します。
 コマンドプロンプト用にはactivate.bat。PowerShell向きにはactivate.ps1が用意されています。
 
-hererocksはpythonで書かれているのでpythonが必要です。
-現在、hererocksはluarocksのチームがメンテナンスしいるのでpipからインストール等の詳細はこちらのrepositoryを参照してください → [https://github.com/luarocks/hererocks](https://github.com/luarocks/hererocks)
+hererocksはpythonで書かれているのでpythonが必要です。私はBlender 3D内蔵のpythonを使ってhererocks.pyを直接実行しました。
 
-私はBlender 3D内蔵のpythonを使ってhererocks.pyを直接実行しました。
+現在、hererocksはluarocksのチームがメンテナンスしているのでpipからインストール等の詳細はこちらのrepositoryを参照してください → [https://github.com/luarocks/hererocks](https://github.com/luarocks/hererocks)
 
 hererocksはcl.exe(MSVC)がPATHにあればcl.exeをCコンパイラとして使い、無ければgccを代わりに使います(gccがPATHにあれば)。
